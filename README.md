@@ -1,2 +1,3 @@
 # hello-world
-my first repository
+
+I love peach and I want to eat a peach eveyday. 
